@@ -1,8 +1,9 @@
+# Voltage activation of BK channels
+Data and Structure files related to voltage-gating simulations of Core-MT BK channels
+
 *************************
 
-
    data formart
-
 
 1  agr file
 
@@ -15,7 +16,6 @@
 3.  .dx file
 
     grid file readable by vmd
-
 
 
 *************************
@@ -127,6 +127,11 @@ git push -u origin main
 
 username zhiguangjia
  token see laptoop code dataase
+
+## Key contributors
+Zhiguang Jia and Jianhan Chen
+
+**Contact: Jianhan Chen** (jianhanc@umass.edu)
 
 
 
