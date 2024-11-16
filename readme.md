@@ -69,9 +69,10 @@ Fig 5:
          raw data:   inactivated : Fig_5_potential_shifted_by_e-fild_inactive.dx
                      activated   : Fig_5_potential_shifted_by_e-fild_active.dx  
 
-                                    *** these two file is too large , in case needed , please send email to coresponding author
+       *** these two file is too large , in case needed , please send email to coresponding author
 
-         analysis script: origin vmd pmepot output does not have electic potential part,  need add the extra electric potential : Fig_5_add_external_potential_to_VMD_pmepot_output.py
+      analysis script: origin vmd pmepot output does not have electic potential part, 
+          need add the extra electric potential: Fig_5_add_external_potential_to_VMD_pmepot_output.py
 
 
 *************************
